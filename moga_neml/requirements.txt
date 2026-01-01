@@ -1,0 +1,7 @@
+numpy
+pandas
+Jinja2>=3.1.2
+pymoo
+scipy
+xlsxwriter
+seaborn

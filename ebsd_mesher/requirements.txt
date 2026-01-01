@@ -1,0 +1,6 @@
+itertools
+matplotlib
+pandas
+scipy
+pyvista
+netCDF4
