@@ -17,6 +17,6 @@ The table below summarises these repositories.
 | `moga_neml`     | Couples the multi-objective genetic algorithm (MOGA) with the nuclear engineering material library (NEML; V1) | 5/5 | https://github.com/ACME-MG/moga_neml |
 | `moose_sim`     | Uses the multiphysics object-oriented simulation environment (MOOSE) to run crystal plasticity finite element method (CPFEM) simulations | 5/5 | https://github.com/ACME-MG/moose_sim |
 | `myoptmat`      | Wraps the ANL-developed PyOptMat to run statistical material models | 1/5 | https://github.com/ACME-MG/myoptmat |
-| `opt_all`       | Calirbates general models against experimental data | 1/5 | https://github.com/ACME-MG/opt_all |
+| `opt_all`       | Calibrates general models against experimental data | 1/5 | https://github.com/ACME-MG/opt_all |
 | `osfem`         | Contains disconnected scripts for quickly optimising empirical models | 1/5 | https://github.com/ACME-MG/osfem |
 | `symbolic`      | Applies symbolic regression to find constitutive expressions to capture experimental data of material deformation behaviour | 1/5 | https://github.com/ACME-MG/symbolic |
